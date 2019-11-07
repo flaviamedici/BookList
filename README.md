@@ -27,7 +27,7 @@ cd BookList
 ```
 5. Now open BookList.json file in a text editor, add your favorite book (or books, it's up to you) to it and author. Put it anywhere in between. Now, save the file.
 Make sure to follow the format:
-<img align="right" width="300" src="img/json.png" alt="json format" />
+<img align="right" width="300" src="img/json.PNG" alt="json format" />
 
 6. Save the file and check the changes using the command:
 ```
