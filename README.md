@@ -1,7 +1,11 @@
 # BookList
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-Add a book to the list for your first pull request
 
+Please watch the video [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
+
+#### This repo is just for you to add a book to the list for your first pull request. In the future, I plan to gather all the books and make a small project to display the book list.
+
+# Steps
 1. Fork this repository
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
