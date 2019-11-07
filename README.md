@@ -14,34 +14,37 @@ clone this repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the copy to clipboard icon.
 
-3. Open a terminal and run the following git command:
+3. Run the following git command on the terminal ( I use the terminal on VSCode going to View -> Terminal):
 
-git clone "url you just copied"
-
+```
+git clone "url"
+```
+<img align="right" width="300" src="img/clone.png" alt="clone this repository" />
 
 4. Open the repository folder
+```
 cd BookList
-
+```
 5. Now open BookList.json file in a text editor, add your favorite book (or books, it's up to you) to it and author. Put it anywhere in between. Now, save the file.
 Make sure to follow the format:
-  {
-    "name":"Your name",
-    "book":"Book name",
-    "author":"Author name"
-}
+<img align="left" width="300" src="img/json.png" alt="json format" />
 
 6. Save the file and check the changes using the command:
+```
 git status
-
+```
 7. Add the changes using the git add command:
+```
 git add BookList.json
-
+```
 8. Commit those changes using git commit:
+```
 git commit -m "Add your message"
-
+```
 9. Push changes to GitHub using the command git push:
+```
 git push origin master
-
+```
 10. create a pull request
 Go to your repository on GitHub, you'll see pull request green button. Click on that button.
 
