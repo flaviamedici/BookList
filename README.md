@@ -22,7 +22,7 @@ git clone "url you just copied"
 4. Open the repository folder
 cd BookList
 
-5. Now open BookList.json file in a text editor, add your favorite book to it and author. Put it anywhere in between. Now, save the file.
+5. Now open BookList.json file in a text editor, add your favorite book (or books, it's up to you) to it and author. Put it anywhere in between. Now, save the file.
 Make sure to follow the format:
   {
     "name":"Your name",
