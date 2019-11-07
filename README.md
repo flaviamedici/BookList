@@ -19,6 +19,12 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 cd BookList
 
 5. Now open BookList.json file in a text editor, add your favorite book to it and author. Put it anywhere in between. Now, save the file.
+Make sure to follow the format:
+  {
+    "name":"Your name",
+    "book":"Book name",
+    "author":"Author name"
+}
 
 6. Save the file and check the changes using the command:
 git status
