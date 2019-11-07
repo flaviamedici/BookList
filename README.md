@@ -1,5 +1,5 @@
 # BookList
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Add a book to the list for your first pull request
 
 1. Fork this repository
