@@ -1,5 +1,17 @@
-{
+[{
 "name": "Flavia",
 "book": "Atomic Habits",
-"author": "James Clear
-}
+"author": "James Clear"
+},{
+"name": "Albir",
+"book": "The 360 Degree Leader",
+"author": "John C. Maxwell"
+},{
+"name": "Albir",
+"book": "Dune",
+"author": "Frank Herbert"
+},{
+"name": "Albir",
+"book": "Frankenstein",
+"author": "Mary Shelley"
+}]
