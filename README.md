@@ -16,8 +16,10 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 ##### 3. Run the following git command on the terminal ( I use the terminal on VSCode going to View -> Terminal):
 <img align="right" width="300" src="img/Clone.PNG" alt="clone this repository" />
+
 ```
 git clone "url"
+
 ```
 
 
