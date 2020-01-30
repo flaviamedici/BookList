@@ -18,8 +18,9 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 ```
 git clone "url"
-```
 <img align="right" width="300" src="img/Clone.PNG" alt="clone this repository" />
+```
+
 
 ##### 4. Open the repository folder
 ```
