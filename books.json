@@ -23,5 +23,21 @@
     "name": "Vishakha",
     "book": "Harry Potter and the Philosopher's Stone",
     "author": "J.K Rowling"
-}
+},
+    {
+    "name": "Scami",
+    "book": "1984",
+    "author": "George Orwell"
+},
+    {
+    "name": "Scami",
+    "book": "Kallocain",
+    "author": "Karin Boye"
+},
+    {
+    "name": "Scami",
+    "book": "The Bridge on the Drina",
+    "author": "Ivo Andric"
+},
+    
 ]
