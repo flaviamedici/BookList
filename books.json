@@ -58,7 +58,27 @@
     "name":"Erick",
     "book":"79 Filmes para Assistir enquanto Dirige",
     "author":"Caíto Mainier, Daniel Furlan, David Benincá, Fernando Fraiha, Juliano Enrico, Leandro Ramos, Pedro Leite e Raul Chequer"
+},
+{
+    "name": "Marcely",
+    "book": "Animal Farm",
+    "author" "George Orwell"
+},
+{
+    "name": "Pedro",
+    "book": "Non-Designer's Design Book",
+    "author": "Robin Williams"
+},
+{
+    "name": "Adriel",
+    "book": "Manual para jovens estressados, mas muito inteligentes!",
+    "author": "Augusto Cury"
+},  
+{
+    "name": "MF",
+    "book": "The Divine Comedy",
+    "author": "Dante Alighieri"
 }
-    
+
 ]
 
