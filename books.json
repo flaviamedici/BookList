@@ -62,7 +62,7 @@
 {
     "name": "Marcely",
     "book": "Animal Farm",
-    "author" "George Orwell"
+    "author": "George Orwell"
 },
 {
     "name": "Pedro",
@@ -78,6 +78,11 @@
     "name": "MF",
     "book": "The Divine Comedy",
     "author": "Dante Alighieri"
+},
+{
+    "name": "MF",
+    "book": "Frankenstein",
+    "author": "Mary Shelley"
 }
 
 ]
