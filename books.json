@@ -62,7 +62,7 @@
 {
     "name": "Marcely",
     "book": "Animal Farm",
-    "author" "George Orwell"
+    "author": "George Orwell"
 },
 {
     "name": "Pedro",
@@ -78,6 +78,16 @@
     "name": "MF",
     "book": "The Divine Comedy",
     "author": "Dante Alighieri"
+},
+{
+    "name": "Sarita",
+    "book": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki and Sharon Lechter"
+},
+{
+    "name": "Sarita",
+    "book": "Ikigai",
+    "author": "Francesc Miralles and Hector Garcia"
 }
 
 ]
