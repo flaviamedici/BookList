@@ -73,12 +73,17 @@
     "name": "Adriel",
     "book": "Manual para jovens estressados, mas muito inteligentes!",
     "author": "Augusto Cury"
-},  
-{
+},
+  {
     "name": "MF",
     "book": "The Divine Comedy",
     "author": "Dante Alighieri"
-}
+},
+  {
+    "name": "Diana",
+    "book": "The Name of the Wind",
+    "author": "Patrick Rothfuss"
+  }
 
 ]
 
